@@ -1,6 +1,3 @@
-# test-task
-Test task for effective mobile
-
 # Консольное приложение для управления библиотекой
 
 # Структура данных
